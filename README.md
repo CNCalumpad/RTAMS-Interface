@@ -1,4 +1,5 @@
 > [!NOTE]
+> - This project uses a Raspberry Pi 4. The 4GB model is recommended.
 > - This project cannot run without the virtual environment and dependencies required. It is recommended to use the .venv folder provided in this repository.
 
 > [!TIP]
