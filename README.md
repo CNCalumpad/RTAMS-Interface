@@ -7,7 +7,8 @@
 > - The `.sh` files also output a log for debugging.
 
 # Real-Time Attendance Monitoring System (RTAMS) Control and Interface scripts
-- Scripts for the functions and API calls of RTAMS. 
+- The Real-Time Monitoring Attendance System poses a solution to attendance tracking in Philippine classrooms, which are mostly by hand, by leveraging the Next.js framework and Vercel for fast deployment.
+- This project contains the scripts necessary to control the hardware, and make changes to the database via the hardware.
 
 ## Python code
 
